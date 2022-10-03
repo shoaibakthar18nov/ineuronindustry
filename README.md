@@ -1,1 +1,3 @@
-## This is the Git tutorialsgit status by krish
+## This is the Git tutorials by krish
+## hello ineuron
+## thank you ineuro
